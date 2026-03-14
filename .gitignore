@@ -1,3 +1,8 @@
-build
-mx.scratch
-!.settings
+build/
+mx.scratch/
+
+# Local IDE and editor workspace files
+.settings/
+.vscode/
+.vs/
+.idea/
